@@ -47,9 +47,9 @@ From June 2025 to September 2026 I took 20 prop-firm challenges across four firm
 ## By the numbers
 
 - 100,000+ lines of TypeScript
-- 38 pages and 97 API routes
+- 35+ pages and 95+ API routes
 - 150+ SQL migrations, merged into one schema baseline
-- 279 automated test files (about 50,500 lines)
+- 275+ automated test files (over 50,000 lines)
 
 ## Screenshots
 
